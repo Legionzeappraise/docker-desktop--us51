@@ -1,4 +1,4 @@
-# 
+# rare Docker Desktop for PC | Docker Desktop for Windows Snippet | multi-architecture-support + registry-management offers the most advanced Docker Desktop for PC | Docker Desktop
 
 
 
